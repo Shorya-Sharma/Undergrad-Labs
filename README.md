@@ -1,2 +1,2 @@
 # Undergraduate-Labs-Electrical-engineering
-This repository contains the solutions of Assignments for the Measurement and Instrumentation Lab, IIT Bhubaneswar for the Autumn Semester 2021-22
+This repository contains the solutions of Assignments for the various labs as a part of Bachelor in Technology course in Electrical Engineering at Indian Institute of Technology Bhubaneswar for the session 2019-2023.
